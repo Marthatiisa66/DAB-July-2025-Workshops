@@ -1,0 +1,17 @@
+Product ,Category ,Jan Sales,Feb Sales,Mar Sales,Total
+Laptop,Electronics," $1,200.00 "," $1,400.00 "," $1,350.00 "," $3,950.00 "
+Smartphone,Electronics, $800.00 , $950.00 ," $1,100.00 "," $2,850.00 "
+Headphones ,Electronics, $150.00 , $200.00 , $250.00 , $600.00 
+Desk Chair,Furniture, $350.00 , $300.00 , $400.00 ," $1,050.00 "
+Coffee Maker,Appliances, $120.00 , $140.00 , $160.00 , $420.00 
+Blender ,Appliances, $80.00 , $100.00 , $110.00 , $290.00 
+T-Shirt,Clothing, $200.00 , $250.00 , $300.00 , $750.00 
+Jeans,Clothing, $300.00 , $350.00 , $400.00 ," $1,050.00 "
+Sneakers,Footware, $250.00 , $280.00 , $320.00 , $850.00 
+Total:,," $3,450.00 "," $3,970.00 "," $4,390.00 "," $11,810.00 "
+,,,,,
+,Total Sales:,,,,
+,Average Monthly Sales:, $437.41 ,,,
+,Best Month: ," $1,400.00 ",,,
+,Worst Month:, $80.0 ,,,
+,,,,,
